@@ -2,6 +2,7 @@
 Resources
 build.log
 build
+build/
 npm-debug.log
 tmp
 .map
