@@ -1,0 +1,15 @@
+<Alloy>
+	<Window class="container" layout="vertical" top="30">
+		<Label id="label" onClick="doClick">Hello, World</Label>
+
+        <Label>Unstyled</Label>
+        <Widget id="numberField" src="com.ksouthworth.numberinput" />
+
+        <Label>TSS Class</Label>
+        <Widget id="numberField" src="com.ksouthworth.numberinput" class="numberField" />
+
+        <Label>TSS Class, decimal keyboard</Label>
+        <Widget id="numberField" src="com.ksouthworth.numberinput" class="decimalField" />
+
+	</Window>
+</Alloy>

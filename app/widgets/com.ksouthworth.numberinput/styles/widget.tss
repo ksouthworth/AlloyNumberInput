@@ -1,0 +1,6 @@
+".numberInput": {
+    width: '50dp',
+    borderStyle: Ti.UI.INPUT_BORDERSTYLE_ROUNDED,
+    keyboardType: Ti.UI.KEYBOARD_NUMBER_PAD,
+    returnKeyType: Ti.UI.RETURNKEY_DONE
+}

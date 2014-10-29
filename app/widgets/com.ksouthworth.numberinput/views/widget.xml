@@ -1,0 +1,4 @@
+<Alloy>
+    <TextField id="input" class="numberInput">
+    </TextField>
+</Alloy>
